@@ -1,0 +1,15 @@
+ship
+	- user ^
+	- asteroid o 
+	- rocket |
+
+liste chainee
+
+game
+
+while (1)
+{
+	get input;
+	update;
+	tracer;
+}
